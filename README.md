@@ -1,4 +1,6 @@
-## Hi there 👋
+## ✨Pretty much a beginner to be honest. :P✨
+
+I mainly focus on art tho
 
 <!--
 **MaybeNancy/MaybeNancy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
